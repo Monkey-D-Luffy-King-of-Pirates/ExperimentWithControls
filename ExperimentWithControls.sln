@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentWithControls", "ExperimentWithControls\ExperimentWithControls.csproj", "{CC79AFED-65BA-4689-B62D-E8234B822F6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC79AFED-65BA-4689-B62D-E8234B822F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC79AFED-65BA-4689-B62D-E8234B822F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC79AFED-65BA-4689-B62D-E8234B822F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC79AFED-65BA-4689-B62D-E8234B822F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A1F63A2-C144-4963-930C-22E4B60B3301}
+	EndGlobalSection
+EndGlobal
